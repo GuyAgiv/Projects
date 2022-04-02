@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*Assigned by:
- Guy Agiv ID#203507926
-*/
-
 #define WALL 2 // Security Wall
 #define R 100 // Rows
 #define C 100 //	Cols
